@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #dice {
+    width: 150px; 
+    height: auto;
+    cursor: pointer;
+  }
+  
